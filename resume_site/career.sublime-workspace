@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"se",
+				"serif"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"lis",
+				"list-style-position\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bo",
+				"border-style\tproperty"
+			],
+			[
+				"con",
+				"align-content\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"font-size",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"nav",
+				"navlink"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"text-dir",
+				"text-decoration\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"all",
+				"all-petite-caps\tfont-variant-caps"
+			],
+			[
+				"fon",
+				"font-variant-caps\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"wra",
+				"word-wrap\tproperty"
+			],
+			[
+				"sty",
+				"border-style\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"font-ali",
+				"font-family\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/anapoliello/Desktop/job hunting/resume_site/java/program01.js",
+		"/Users/anapoliello/Desktop/job hunting/resume_site/styles/design01.css",
+		"/Users/anapoliello/Desktop/job hunting/resume_site/projects.html",
+		"/Users/anapoliello/Desktop/job hunting/resume_site/portfolio",
+		"/Users/anapoliello/Desktop/job hunting/resume_site/about.html",
+		"/Users/anapoliello/Desktop/job hunting/resume_site/index.html",
+		"/Users/anapoliello/Desktop/job hunting/resume_site/program.js",
+		"/Users/anapoliello/Desktop/job hunting/resume_site/design.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson10/js/script.js",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson10/style/app.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson10/index.html",
+		"/Users/anapoliello/Desktop/HWLess07-master/style/style.css",
+		"/Users/anapoliello/Desktop/HWLess07-master/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson10/js/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lasson8/ex2/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lasson8/ex2/style.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lasson8/ex1/style.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lasson8/ex1/index.html",
+		"/Users/anapoliello/Desktop/startercode.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lasson8/style.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lasson8/index.html",
+		"/Users/anapoliello/Desktop/boilerplate-plain-master/styles/main3.css",
+		"/Users/anapoliello/Desktop/boilerplate-plain-master/index03.html",
+		"/Users/anapoliello/Desktop/boilerplate-plain-master/index02.html",
+		"/Users/anapoliello/Desktop/boilerplate-plain-master/styles/main2.css",
+		"/Users/anapoliello/Desktop/boilerplate-plain-master/styles/main.css",
+		"/Users/anapoliello/Desktop/boilerplate-plain-master/index01.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson6/styles/app.css",
+		"/Users/anapoliello/Desktop/boilerplate-plain-master/styles/reset.css",
+		"/Users/anapoliello/Desktop/boilerplate-plain-master/README.md",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/layouts/layout4/app1.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/layouts/layout4/index4.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/layouts/layout3/app1.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/layouts/layout3/index3.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/layouts/layout2/index2.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/WendyBite_BEM-master/styles/style.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/WendyBite_BEM-master/index.html",
+		"/Users/anapoliello/Desktop/Web Building Demos/CATSIncCSS/style/style.css",
+		"/Users/anapoliello/Desktop/Web Building Demos/CATSIncCSS/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson6/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson6/style.css",
+		"/Users/anapoliello/Desktop/Web Building Demos/CATSIncCSS/contact.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/box.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/box.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/WendyBite_BEM-master/resume.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/WendyBite_BEM-master/assignmentMaterials/WendyBite_Resume.png",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/WendyBite_BEM-master/assignmentMaterials/WendyBite_AboutMe.png",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/WendyBite_BEM-master/assignmentMaterials/Wendy_Bite.txt",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/WendyBite_BEM-master/README.md",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson3/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSIncCSS/style/style.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson4/style/css.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson4/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSInc/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSIncCSS/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSIncCSS/style/css.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSIncCSS/style/css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/lesson3/style/style.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem3/html/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/CookieCrisp/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem3/css/styles_partial_1.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem3/html/css/styles_partial_2.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem3/html/css/reset.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem2/html/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem1/html/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem2/css/style.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem0/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem0/css/style.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/RelativePathsReview-master/problem1/style.css",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/WendyBite_BEM-master/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSInc/contact.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSInc/trainees.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSInc/sam.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSInc/maggie.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/CATSInc/ash.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/Lesson2HW/ashfur",
+		"/Users/anapoliello/Desktop/GA_FEWD/Homework Files/Lesson2HW/about.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/CookieCrisp/index-sem.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/MyHero/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/NewSiteTest/about.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/NewSiteTest/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/index.html",
+		"/Users/anapoliello/Desktop/GA_FEWD/Classwork/about.html",
+		"/Users/anapoliello/Desktop/intro_001.html",
+		"/intro001"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.44537660968,
+			0.751807282416,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "",
+	"project": "career.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}

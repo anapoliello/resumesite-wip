@@ -1,0 +1,18 @@
+/*	color palette
+dk blue: 	#1f2f3e;
+lt blue: 	#728695;
+cream: 		#fff9e7;
+lt purple: 	#988894;
+dk purple:	#4e1e3f;
+
+	font library
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+
+*/
+
+.headline_change {
+	font-family: 'Fredericka the Great', cursive;
+	color: #1f2f3e;
+}

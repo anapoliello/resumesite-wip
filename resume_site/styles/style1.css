@@ -1,0 +1,49 @@
+/*	color palette
+dk blue: 	#1f2f3e;
+lt blue: 	#728695;
+cream: 		#fff9e7;
+lt purple: 	#988894;
+dk purple:	#4e1e3f;
+
+	font library
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+
+*/
+
+body {
+	background-color: #fff9e7;
+	color: black;
+}
+
+.bg-purple {
+	background-color: #4e1e3f;
+} 
+
+.jumbotron {
+	background-color: #4e1e3f;
+	border-radius: 0px;
+	color: #fff9e7;
+	font-family: 'Fredericka the Great', cursive;
+
+}
+
+.subtitles {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.head_font {
+	color: #728695;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: bold;
+}
+.btn {
+	background-color: #1f2f3e;
+	align-items: baseline;
+}
+
+.aboutme {
+	font-family: 'Fredericka the Great', cursive;
+	color: #1f2f3e;
+}
